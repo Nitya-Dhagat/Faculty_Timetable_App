@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "154062482707",
+    "project_id": "faculty-timetable-1cc89",
+    "storage_bucket": "faculty-timetable-1cc89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154062482707:android:05d65b1da6361c8b49bee6",
+        "android_client_info": {
+          "package_name": "com.example.faculty_timetable"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlQEYwIjlu66VDYrZWaxXnJgItef_c_es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

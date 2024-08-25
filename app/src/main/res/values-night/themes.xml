@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Faculty_Timetable" parent="Theme.Material3.DayNight.NoActionBar">
+        <!--        <item name="primary_color_dark_theme">@color/primary_color_dark</item>-->
+        <!--        <item name="secondary_color_dark_theme">@color/secondary_color_dark</item>-->
+    </style>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Faculty_Timetable" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+</resources>
